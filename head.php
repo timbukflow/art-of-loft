@@ -7,14 +7,12 @@
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="pragma" content="no-cache">
+
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#7f7f7f">
-<meta name="msapplication-TileColor" content="#***">
-<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-<meta name="theme-color" content="#ffffff">
+
 <meta property="og:title" content="Art of Loft AG">
 <meta property="og:site_name" content="Art of Loft AG">
 <meta property="og:type" content="Website">
@@ -41,6 +39,9 @@
 <meta property="business:contact_data:region" content="9000">
 <meta property="business:contact_data:postal_code" content="9000">
 <meta property="business:contact_data:country_name" content="Switzerland">
-<meta name="google-site-verification" content="................................">
+
 <link rel="stylesheet" href="css/reset.css">
 <link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet">
