@@ -7,7 +7,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
     <meta charset="utf-8">
     <title>Art of Loft</title>
-    <meta name="description" content="Die Swiss Baumanagement AG ist ein Team von Bauexperten. Wir verstehen uns als kompetente Partner in komplexen Bauprojekten und realisieren Ihr Bauvorhaben.">
+    <meta name="description" content="Art of Loft">
     <?php include 'head.php'; ?>
 </head>
 
@@ -19,29 +19,44 @@
       </div>
       <article class="projekt right first">
         <img src="img/art-of-loft-neubau-8-oeserigi-appenzell-innerhoden.jpg" alt="art-of-loft-neubau-8-oeserigi-appenzell-innerhoden" width="100%" height="auto">
-        <h2>Neubau<br>2021</h2>
-        <h1>8 Öserigi<br>Appenzell Innerhoden</h1>
+        <h2>Neubau<br>Realisation ab 2022</h2>
+        <h1>8 Öserigi, 8 MFH<br>Appenzell AI</h1>
       </article>
       <article class="projekt center">
         <img src="img/art-of-loft-neubau-segnas.jpg" alt="art-of-loft-neubau-segnas" width="100%" height="auto">
-        <h2>Renovation<br>2020</h2>
-        <h1>Ferienhaus<br>Segnas</h1>
+        <h2>Neubau<br>Realisation ab 2022</h2>
+        <h1>Chalet mit 4 WHG<br>Segnas GR</h1>
       </article>
       <article class="projekt full">
         <img src="img/art-of-loft-neubau-polygon-bottighofen.jpg" alt="art-of-loft-neubau-polygon-bottighofen" width="100%" height="auto">
-        <h2>Neubau<br>2020</h2>
-        <h1>Polygon<br>Bottighofen</h1>
+        <h2>Neubau<br>Realisation ab 2022</h2>
+        <h1>Polygon, Gewerbebau<br>Bottighofen TG</h1>
       </article>
       <article class="projekt right">
         <img src="img/art-of-loft-neubau-amriswil.jpg" alt="art-of-loft-neubau-amriswil" width="100%" height="auto">
-        <h2>Neubau<br>2021</h2>
-        <h1>Name<br>Amriswil</h1>
+        <h2>Neubau<br>Realisation seit 2021</h2>
+        <h1>4 MFH<br>Amriswil</h1>
       </article>
       <article class="projekt center">
-        <img src="img/art-of-loft-neubau-villa-meer.jpg" alt="art-of-loft-neubau-villa-meer" width="100%" height="auto">
-        <h2>Neubau<br>2021</h2>
-        <h1>Name<br>Wattwil</h1>
+        <img src="img/art-of-loft-studie-mfh-wattwil.jpg" alt="art-of-loft-studie-mfh-wattwil" width="100%" height="auto">
+        <h2>Studie<br>2020</h2>
+        <h1>MFH<br>Wattwil</h1>
       </article>
+      <article class="projekt full">
+        <img src="img/art-of-loft-studie-villa-spanien.jpg" alt="art-of-loft-studie-villa-spanien" width="100%" height="auto">
+        <h2>Studie<br>2015</h2>
+        <h1>Villa<br>Spanien</h1>
+      </article>
+      <article class="projekt right">
+        <img src="img/art-of-loft-studie-herrliberg.jpg" alt="art-of-loft-studie-herrliberg" width="100%" height="auto">
+        <h2>Eingeladener Wettbewerb<br>2015</h2>
+        <h1>Wängirain<br>Herrliberg</h1>
+      </article>
+      <article class="projekt center">
+        <img src="img/art-of-loft-eingeladener-wettbewerb.jpg" alt="art-of-loft-eingeladener-wettbewerb" width="100%" height="auto">
+        <h2>Eingeladener Wettbewerb<br>2014</h2>
+      </article>
+
       <div id="footer">
           <h2>
             <a target="_blank" href="https://www.google.ch/maps/place/Art+of+Loft/@47.4296178,9.3775603,17z/data=!3m1!4b1!4m5!3m4!1s0x479b1e4578691d93:0xb96068c2a06244e9!8m2!3d47.4296961!4d9.3798401">
