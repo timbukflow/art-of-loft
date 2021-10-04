@@ -51,7 +51,7 @@ h1, h2, a {
   width: 90%;
 }
 
-.logo a {
+.logo .kontakt {
   float: right;
 }
 
@@ -132,7 +132,7 @@ responsive ipad
     margin-left: 20%;
   }
   .right h2 {
-      margin-left: 20%;
+    margin-left: 20%;
   }
 
   .center img {

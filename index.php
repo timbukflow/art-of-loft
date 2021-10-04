@@ -14,8 +14,8 @@
 <body>
     <section class="container">
       <div class="logo">
-        <img src="img/artofloft-logo.svg" alt="Art of Loft Logo" width="180px" height="auto">
-        <a href="#footer" >Kontakt</a>
+        <a href="index"><img src="img/artofloft-logo.svg" alt="Art of Loft Logo" width="180px" height="auto"></a>
+        <a class="kontakt" href="#footer" >Kontakt</a>
       </div>
       <article class="projekt right first">
         <img src="img/art-of-loft-neubau-8-oeserigi-appenzell-innerhoden.jpg" alt="art-of-loft-neubau-8-oeserigi-appenzell-innerhoden" width="100%" height="auto">
