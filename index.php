@@ -34,7 +34,7 @@
       </article>
       <article class="projekt right">
         <img src="img/art-of-loft-neubau-amriswil.jpg" alt="art-of-loft-neubau-amriswil" width="100%" height="auto">
-        <h2>Neubau<br>Realisation 2020</h2>
+        <h2>Neubau<br>Realisation ab 2020</h2>
         <h1>3 MFH<br>Amriswil TG</h1>
       </article>
       <article class="projekt center">
