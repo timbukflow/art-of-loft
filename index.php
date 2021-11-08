@@ -14,7 +14,7 @@
 <body>
     <section class="container">
       <div class="logo">
-        <a href="index"><img src="img/artofloft-logo.svg" alt="Art of Loft Logo" width="180px" height="auto"></a>
+        <a href=""><img src="img/artofloft-logo.svg" alt="Art of Loft Logo" width="180px" height="auto"></a>
         <a class="kontakt" href="#footer" >Kontakt</a>
       </div>
       <article class="projekt right first">
@@ -40,7 +40,7 @@
       <article class="projekt center">
         <img src="img/art-of-loft-studie-mfh-wattwil.jpg" alt="art-of-loft-studie-mfh-wattwil" width="100%" height="auto">
         <h2>Studie<br>2020</h2>
-        <h1>MFH<br> SG</h1>
+        <h1>MFH<br> Wattwil SG</h1>
       </article>
       <article class="projekt full">
         <img src="img/art-of-loft-studie-villa-spanien.jpg" alt="art-of-loft-studie-villa-spanien" width="100%" height="auto">
