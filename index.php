@@ -67,7 +67,13 @@
         <h2>
           <a target="_blank" href="https://www.google.ch/maps/place/Art+of+Loft/@47.4296178,9.3775603,17z/data=!3m1!4b1!4m5!3m4!1s0x479b1e4578691d93:0xb96068c2a06244e9!8m2!3d47.4296961!4d9.3798401">
             Art of Loft AG<br>
-            Schützengartenweg 3<br>
+            <br>
+            Hauptsitz<br>
+            Gadenstatt 4<br>
+            9050 Appenzell Meistersrüte<br>
+            <br>
+            Niederlassung <br>
+            Schützengartenweg 3 <br>
             9000 St.Gallen<br><br>
           </a>
           <a href="tel:0714140202">T 071 414 02 02</a><br>
