@@ -18,9 +18,11 @@
         <a class="kontakt" href="#footer" >Kontakt</a>
       </div>
       <article class="projekt right first">
-        <img src="img/art-of-loft-neubau-8-oeserigi-appenzell-innerhoden.jpg" alt="art-of-loft-neubau-8-oeserigi-appenzell-innerhoden" width="100%" height="auto">
+        <a class="oeserigi" target="_blank" href="https://www.8oeserigi.ch">
+          <img src="img/art-of-loft-neubau-8-oeserigi-appenzell-innerhoden.jpg" alt="art-of-loft-neubau-8-oeserigi-appenzell-innerhoden" width="100%" height="auto">
+        </a>
         <h2>Neubau<br>Realisation ab 2022</h2>
-        <h1> <a class="oeserigi" href="https://www.8oeserigi.ch target="_blank"">www.8oeserigi.ch<br>Appenzell AI</a></h1>
+        <h1> <a class="oeserigi" target="_blank" href="https://www.8oeserigi.ch">www.8oeserigi.ch<br>Appenzell AI</a></h1>
       </article>
       <article class="projekt center">
         <img src="img/art-of-loft-neubau-segnas.jpg" alt="art-of-loft-neubau-segnas" width="100%" height="auto">
