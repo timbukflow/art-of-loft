@@ -49,7 +49,7 @@
         <h2>Studie<br>2015</h2>
         <h1>Villa<br>Spanien</h1>
       </article>
-      <article class="projekt right">
+      <!--<article class="projekt right">
         <img src="img/art-of-loft-studie-herrliberg.jpg" alt="art-of-loft-studie-herrliberg" width="100%" height="auto">
         <h2>Eingeladener Wettbewerb<br>Realisation 2019 abgeschlossen</h2>
         <h1>Herrliberg ZH</h1>
@@ -58,7 +58,7 @@
         <img src="img/art-of-loft-eingeladener-wettbewerb.jpg" alt="art-of-loft-eingeladener-wettbewerb" width="100%" height="auto">
         <h2>Eingeladener Wettbewerb<br>2014</h2>
         <h1>Ermatingen TG</h1>
-      </article>
+      </article>-->
 
       <div id="footer">
         <h2 class="pw">
